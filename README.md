@@ -9,12 +9,12 @@ A camera is implemented to give users the ability to move freely on the XY axis.
 
 This project is an application for many important fundamentals in the computer graphics area covering:
 
-*Vertex shaders
-*Fragment shaders
-*VBO, VAO and IBO
-*OOP for game engines
-*Parsers
-*OpenGL
+- Vertex shaders
+- Fragment shaders
+- VBO, VAO and IBO
+- OOP for game engines
+- Parsers
+- OpenGL
  
 
 
