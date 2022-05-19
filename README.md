@@ -2,7 +2,7 @@
 
 ![](Game-Engine-GIF.gif)
 
-Sunset Island is a 3D map made from a self-made game engine written in C++ and OpenGL.
+Sunset Island is a 3D map created from a self-made game engine written in C++ and OpenGL.
 
 It contains a background sound, some animated objects like the floating boat and ocean waves...
 A camera is implemented to give users the ability to move freely on the XY axis.
